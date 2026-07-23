@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="docs/banner.jpg" alt="Ivan Lin Banner" width="100%">
+  <img src="docs/banner.jpg" alt="Ivan Lin Banner" width="100%"><br>
+  <sub><b>@ivanusto</b></sub>
 </p>
 
 # Hi, I'm Ivan Lin 👋
@@ -62,5 +63,12 @@ I focus on building practical, secure, and human-centered solutions at the inter
 > *"Practical. Secure. Open. Human-centered."*
 
 - 🐙 **GitHub**: [github.com/ivanusto](https://github.com/ivanusto)
-- 📸 **Instagram**: [@ivanusto](https://instagram.com/ivanusto)
-- ⭐️ Feel free to check out my repositories and drop a star if you find them helpful!
+- 📝 **Blog**: [yblog.org](http://yblog.org/)
+- 𝕏 **X (Twitter)**: [@ivanusto](https://x.com/ivanusto)
+- 🧵 **Threads**: [@ivanusto](https://www.threads.net/@ivanusto)
+- 📸 **Instagram**: [@ivanusto](https://www.instagram.com/ivanusto/)
+- 📘 **Facebook**: [ivanusto](https://www.facebook.com/ivanusto)
+
+---
+
+⭐️ Feel free to check out my repositories and drop a star if you find them helpful!
