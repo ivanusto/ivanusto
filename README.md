@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="docs/banner.jpg" alt="Ivan Lin Banner" width="100%"><br>
-  <sub><b>@ivanusto</b></sub>
+  <img src="docs/banner.jpg" alt="Ivan Lin Banner" width="100%">
 </p>
 
 # Hi, I'm Ivan Lin 👋
