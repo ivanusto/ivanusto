@@ -4,9 +4,9 @@
 
 # Hi, I'm Ivan Lin 👋
 
-### 🛡️ Cybersecurity Engineer | 🤖 AI Application Developer | 🐧 Open Source Contributor
+### Cybersecurity Engineer | Application Developer | Open Source Contributor
 
-I focus on building practical, secure, and human-centered solutions at the intersection of **Artificial Intelligence**, **Cybersecurity**, **Linux Infrastructure**, and **Open Source Software**.
+I focus on building practical, secure, and human-centered solutions at the intersection of **Artificial Intelligence**, **Cybersecurity**, **IT Infrastructure**, and **Open Source Software**.
 
 ---
 
@@ -14,7 +14,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 - 🏅 **2024 Golden Bell Award (廣播金鐘獎)** — *Innovation & R&D Application Award*
   - **Project**: AI Hakka Speech Generation Platform (AI 客語語音生成平台)
-  - Dedicated to minority language preservation and speech AI applications through cutting-edge TTS/ASR technologies.
+  - Dedicated to minority language preservation and speech AI applications through TTS/ASR technologies.
 
 ---
 
@@ -22,11 +22,11 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ### WordPress Plugins
 *Lightweight, SEO-focused, and media/cloud storage optimization plugins.*
-- **[omni-webmaster-seo-suite](https://github.com/ivanusto/omni-webmaster-seo-suite)** — Comprehensive WordPress SEO suite for webmasters. / 為網站站長設計的完整 WordPress SEO 整合工具套件。
+- **[omni-webmaster-seo-suite](https://github.com/ivanusto/omni-webmaster-seo-suite)** — Comprehensive WordPress SEO suite for webmasters. / 為使用 WordPress 網站的站長們設計的WordPress SEO 小型整合工具套件。
 - **[zh-to-en-slug](https://github.com/ivanusto/zh-to-en-slug)** — Translate Chinese post titles to English slugs automatically using Google Translation API. / 自動將 WordPress 文章標題翻譯成英文 Slug 的外掛。
 - **[just-s3-offload](https://github.com/ivanusto/just-s3-offload)** — Offload Media Library to Amazon S3 or S3-compatible cloud storage. / 輕量、無依賴的 WordPress S3 媒體庫儲存空間卸載外掛。
 - **[just-gcs-offload](https://github.com/ivanusto/just-gcs-offload)** — Offload Media Library files seamlessly to Google Cloud Storage (GCS). / 輕量、無依賴的 WordPress GCS 媒體庫儲存空間卸載外掛。
-- **[disable-all-thumbnails](https://github.com/ivanusto/disable-all-thumbnails)** — Prevent the generation of specific thumbnail formats in WordPress. / 停用 WordPress 所有縮圖格式生成功能。
+- **[disable-all-thumbnails](https://github.com/ivanusto/disable-all-thumbnails)** — Prevent the generation of specific thumbnail formats in WordPress. / 停用 WordPress 所有縮圖格式生成功能，減少雲端或地端主機儲存空間被一堆額外圖片耗用的空間。
 - **[disable-all-comments](https://github.com/ivanusto/disable-all-comments)** — Completely disable all comment features in WordPress. / 完全停用 WordPress 網站的所有留言功能。
 - **[smart-file-renamer](https://github.com/ivanusto/smart-file-renamer)** — SEO-friendly media filename management & bulk renaming during upload. / 在上傳過程中自動重新命名含有變音符號和特殊字元的檔案。
 - **[smart-image-upload-resizer](https://github.com/ivanusto/smart-image-upload-resizer)** — Automatic image optimization, WebP/AVIF conversion & responsive resizer on upload. / 圖片上傳自動縮圖與 WebP/AVIF 轉換外掛。
