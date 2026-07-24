@@ -50,10 +50,10 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **AI / Machine Learning** | Python, PyTorch, Transformers, OpenVINO, Whisper, Hakka TTS/ASR, Ollama |
+| **AI / Machine Learning** | Python, DS4, Whisper, Hakka TTS/ASR, Ollama, vLLM |
 | **Cybersecurity** | ISO 27001, ISO 27701, SIEM, Wazuh, Cloud Security, Security Automation |
-| **Infrastructure** | Linux (Debian/Ubuntu), Docker, QNAP NAS, VMware, Nginx, Apache, Redis, GCS |
-| **Development & CI/CD** | Python, PHP, JavaScript (WebExtensions API), Bash, WordPress Plugins, GitHub Actions |
+| **Infrastructure** | Linux (Debian/Ubuntu), Docker, NAS, VMware, Nginx, Apache, Redis, GCS, AWS|
+| **Development & CI/CD** | Python, PHP, JavaScript (WebExtensions API), WordPress Plugins, GitHub Actions |
 
 ---
 
