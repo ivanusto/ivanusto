@@ -10,7 +10,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## 🏆 Key Achievements & Research
+## Key Achievements & Research
 
 - 🏅 **2024 Golden Bell Award (廣播金鐘獎)** — *Innovation & R&D Application Award*
   - **Project**: AI Hakka Speech Generation Platform (AI 客語語音生成平台)
@@ -18,9 +18,9 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## 🚀 Featured Focus & Repositories
+## Featured Focus & Repositories
 
-### 🌐 WordPress Plugins
+### WordPress Plugins
 *Lightweight, SEO-focused, and media/cloud storage optimization plugins.*
 - **[omni-webmaster-seo-suite](https://github.com/ivanusto/omni-webmaster-seo-suite)** — Comprehensive WordPress SEO suite for webmasters. / 為網站站長設計的完整 WordPress SEO 整合工具套件。
 - **[zh-to-en-slug](https://github.com/ivanusto/zh-to-en-slug)** — Translate Chinese post titles to English slugs automatically using Google Translation API. / 自動將 WordPress 文章標題翻譯成英文 Slug 的外掛。
@@ -31,6 +31,15 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[smart-file-renamer](https://github.com/ivanusto/smart-file-renamer)** — SEO-friendly media filename management & bulk renaming during upload. / 在上傳過程中自動重新命名含有變音符號和特殊字元的檔案。
 - **[smart-image-upload-resizer](https://github.com/ivanusto/smart-image-upload-resizer)** — Automatic image optimization, WebP/AVIF conversion & responsive resizer on upload. / 圖片上傳自動縮圖與 WebP/AVIF 轉換外掛。
 - **[modern-rss-image-feed](https://github.com/ivanusto/modern-rss-image-feed)** — Enhanced media RSS feed support with modern image formats for RSS readers. / 為 RSS 訂閱源提供現代圖片格式支援。
+
+
+### Browsers Plugins
+*Clean, privacy-first, and utility-focused browser extensions.*
+- **[just-ig-image-downloader](https://github.com/ivanusto/just-ig-image-downloader)** — Quick & clean Instagram high-res media downloader.
+- **[just-tab-reloader](https://github.com/ivanusto/just-tab-reloader)** — Automated custom interval tab refreshing utility.
+- **[just-ad-blocker](https://github.com/ivanusto/just-ad-blocker)** — Lightweight content blocker focusing on privacy and performance.
+- **[just-new-tab](https://github.com/ivanusto/just-new-tab)** — Minimalist dashboard and customized new tab page.
+  
 
 ### 🎨 Achievement System Platforms
 *Interactive Washi-style notebook platforms for footprint tracking & share card generation.*
@@ -43,18 +52,11 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[anime-achievement-list](https://github.com/ivanusto/anime-achievement-list)** — Anime & Otaku Achievement Collection Platform (動漫成就打卡與稱號系統).
 - **[couple-achievement-list](https://github.com/ivanusto/couple-achievement-list)** — Couple Milestones, Relationship Radar & Share Cards (伴侶與親密關係成就系統).
 
-### 🧩 Browsers Plugins
-*Clean, privacy-first, and utility-focused browser extensions.*
-- **[just-ig-image-downloader](https://github.com/ivanusto/just-ig-image-downloader)** — Quick & clean Instagram high-res media downloader.
-- **[just-tab-reloader](https://github.com/ivanusto/just-tab-reloader)** — Automated custom interval tab refreshing utility.
-- **[just-ad-blocker](https://github.com/ivanusto/just-ad-blocker)** — Lightweight content blocker focusing on privacy and performance.
-- **[just-new-tab](https://github.com/ivanusto/just-new-tab)** — Minimalist dashboard and customized new tab page.
-
-### 🤖 AI & Speech Technology
+### AI & Speech Technology
 *Applied speech AI models, local inference, and language digitization.*
 - **[Hakka TTS/ASR](https://github.com/ivanusto)** — Minority language preservation through deep learning speech synthesis and recognition.
 
-### 🗄️ QNAP NAS Ecosystem
+### NAS Ecosystem
 *Native QNAP packages (.qpkg) and self-hosted AI / media infrastructure.*
 - **[Jellyfin-QPKG](https://github.com/ivanusto/Jellyfin-QPKG)** — Native media server deployment package for QNAP QTS / QuTS hero.
 - **[roon-qpkg](https://github.com/ivanusto/roon-qpkg)** — High-fidelity audiophile music server deployment on QNAP NAS.
@@ -63,7 +65,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
