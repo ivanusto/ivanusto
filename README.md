@@ -62,4 +62,5 @@ I focus on building practical, secure, and human-centered solutions at the inter
 > *"Practical. Secure. Open. Human-centered."*
 
 - 🐙 **GitHub**: [github.com/ivanusto](https://github.com/ivanusto)
+- 📸 **Instagram**: [@ivanusto](https://instagram.com/ivanusto)
 - ⭐️ Feel free to check out my repositories and drop a star if you find them helpful!
