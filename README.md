@@ -23,6 +23,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 ### WordPress Plugins
 *Lightweight, SEO-focused, and media/cloud storage optimization plugins.*
 - **[omni-webmaster-seo-suite](https://github.com/ivanusto/omni-webmaster-seo-suite)** — Comprehensive WordPress SEO suite for webmasters. / 為使用 WordPress 網站的站長們設計的WordPress SEO 小型整合工具套件。
+- **[omni-wp-perf-hardening](https://github.com/ivanusto/omni-wp-perf-hardening)** —mni Performance Hardening — single-file WordPress plugin that tames expensive endpoints (search scans, archive queries, low-value feeds, oEmbed, XML-RPC) with CDN-friendly cache headers. 收斂 WordPress 高成本端點的單檔外掛，並提供 CDN 友善快取標頭。
 - **[zh-to-en-slug](https://github.com/ivanusto/zh-to-en-slug)** — Translate Chinese post titles to English slugs automatically using Google Translation API. / 自動將 WordPress 文章標題翻譯成英文 Slug 的外掛。
 - **[just-s3-offload](https://github.com/ivanusto/just-s3-offload)** — Offload Media Library to Amazon S3 or S3-compatible cloud storage. / 輕量、無依賴的 WordPress S3 媒體庫儲存空間卸載外掛。
 - **[just-gcs-offload](https://github.com/ivanusto/just-gcs-offload)** — Offload Media Library files seamlessly to Google Cloud Storage (GCS). / 輕量、無依賴的 WordPress GCS 媒體庫儲存空間卸載外掛。
