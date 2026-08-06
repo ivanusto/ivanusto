@@ -36,7 +36,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ### Browsers Plugins
 *Clean, privacy-first, and utility-focused browser extensions.*
-- **[just-ig-image-downloader](https://github.com/ivanusto/just-ig-image-downloader)** — Quick & clean Instagram high-res media downloader.
+- **[just-image-video-downloader](https://github.com/ivanusto/just-image-video-downloader)** — Quick & clean one-click high-res image & video downloader.
 - **[just-tab-reloader](https://github.com/ivanusto/just-tab-reloader)** — Automated custom interval tab refreshing utility.
 - **[just-ad-blocker](https://github.com/ivanusto/just-ad-blocker)** — Lightweight content blocker focusing on privacy and performance.
 - **[just-new-tab](https://github.com/ivanusto/just-new-tab)** — Minimalist dashboard and customized new tab page.
