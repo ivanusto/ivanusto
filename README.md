@@ -40,7 +40,12 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[just-tab-reloader](https://github.com/ivanusto/just-tab-reloader)** — Automated custom interval tab refreshing utility.
 - **[just-ad-blocker](https://github.com/ivanusto/just-ad-blocker)** — Lightweight content blocker focusing on privacy and performance.
 - **[just-new-tab](https://github.com/ivanusto/just-new-tab)** — Minimalist dashboard and customized new tab page.
-  
+
+
+### 🛠️ Web Tools & Utilities
+*Privacy-first, client-side, zero-dependency web applications & tools.*
+- **[image-aspect-ratio-calculator](https://github.com/ivanusto/image-aspect-ratio-calculator)** — 圖片與影片比例智慧計算與裁切器 | Aspect Ratio & Crop Pro — 100% Client-side privacy-first image & video aspect ratio calculator, smart cropper, and WebP/PNG/JPG exporter.
+
 
 ### 🎨 Achievement System Platforms
 *Interactive Washi-style notebook platforms for footprint tracking & share card generation.*
