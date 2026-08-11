@@ -84,7 +84,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 > *"Practical. Secure. Open. Human-centered."*
 
 - 🐙 **GitHub**: [github.com/ivanusto](https://github.com/ivanusto)
-- 📝 **Blog**: [yblog.org](https://yblog.org)
+- 📝 **Blog**: [優格網 (yblog.org)](https://yblog.org)
 - 𝕏 **X (Twitter)**: [@ivanusto](https://x.com/ivanusto)
 - 🧵 **Threads**: [@ivanusto](https://www.threads.net/@ivanusto)
 - 📸 **Instagram**: [@ivanusto](https://www.instagram.com/ivanusto/)
