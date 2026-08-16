@@ -35,6 +35,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ### 🧩 Browser Extensions & Web Tools
 *Clean, privacy-first, and utility-focused web tools and extensions.*
+- **[watermarks-remover-web](https://github.com/ivanusto/watermarks-remover-web)** — 100% 純前端隱私優先 AI 浮水印與隱形標記清除工具 (AI Watermark, Provenance & Metadata Remover).
 - **[md-to-wordpress-converter](https://github.com/ivanusto/md-to-wordpress-converter)** — 將 Markdown 轉換為 WordPress Gutenberg 區塊與一鍵貼上工具 (Markdown to WordPress Converter).
 - **[image-aspect-ratio-calculator](https://github.com/ivanusto/image-aspect-ratio-calculator)** — Privacy-first 100% client-side aspect ratio calculator, cropper & HD exporter.
 - **[just-image-video-downloader](https://github.com/ivanusto/just-image-video-downloader)** — Quick & clean Instagram high-resolution media and story downloader.
