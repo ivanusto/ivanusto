@@ -121,7 +121,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[travel-achievement-list](https://github.com/ivanusto/travel-achievement-list)** — Earth Travel Achievements: A Washi-style notebook platform for tracking global travel footprints and generating share cards.<br>
   🌍 地球旅行成就系統：結合全球旅遊足跡打卡、里程碑收集與手帳風分享圖卡生成的手帳平台。
 - **[taiwan-travel-achievement-list](https://github.com/ivanusto/taiwan-travel-achievement-list)** — Taiwan Travel Achievements: Footprint tracking across Taiwan townships and attractions with custom share cards.<br>
-  🇹🇼 台灣旅行成就系統：深度走訪台灣各鄉鎮市區景點的足跡打卡手帳與分享卡生成器。
+  🌍 台灣旅行成就系統：深度走訪台灣各鄉鎮市區景點的足跡打卡手帳與分享卡生成器。
 - **[japan-travel-achievement-list](https://github.com/ivanusto/japan-travel-achievement-list)** — Japan Travel Achievements: Track 47 prefectures footprints, unlock regional badges, and export travel cards.<br>
   🇯🇵 日本旅行成就系統：日本 47 都道府縣足跡探索、名所成就解鎖與和風手帳圖卡分享平台。
 - **[developer-achievement-list](https://github.com/ivanusto/developer-achievement-list)** — Developer Achievement System: Track software engineering tech stacks, career milestones, and dev footprints.<br>
