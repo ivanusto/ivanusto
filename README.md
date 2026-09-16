@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.jpg" alt="Ivan Lin Banner" width="100%">
+  <img src="docs/banner2.jpg" alt="Ivan Lin Banner" width="100%">
 </p>
 
 # Hi, I'm Ivan Lin 👋
