@@ -34,12 +34,22 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[modern-rss-image-feed](https://github.com/ivanusto/modern-rss-image-feed)** — Enhanced RSS feed support with modern image formats (WebP, AVIF) via Media RSS (`<media:content>`) tags. (為 RSS Feed 增添現代圖片格式支援)
 
 ### 🧩 Browser Extensions & Web Utilities
-*純前端運算、隱私優先、無伺服器依賴的實用瀏覽器擴充功能與網頁工具。*
+*純前端運算、隱私優先、無伺服器依賴的實用瀏覽器擴充套件與網頁工具。*
+
+#### 🌐 瀏覽器擴充套件 (Browser Extensions)
+- **[just-tab-reloader](https://github.com/ivanusto/just-tab-reloader)** — 支援隨機區間與防呆看門狗的分頁自動重新整理擴充套件，防止監控後台與登入工作階段逾期斷線。<br>
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/just-tab-reloader/mdnndgdbddjlnomgpbjojbhknhlnkgpm) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/zh-TW/firefox/addon/just-tab-reloader/)
+- **[just-a-new-tab](https://github.com/ivanusto/just-a-new-tab)** — **拾光新分頁 (Just a New Tab)**：極簡美觀的毛玻璃風新分頁儀表板，支援高畫質動態背景、時鐘天氣、每日金句與快捷導航。<br>
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/just-a-new-tab/kikbmmbpefmdkknkckkghphmgeblcpgk) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/zh-TW/firefox/addon/just-a-new-tab/)
+- **[just-image-video-downloader](https://github.com/ivanusto/just-image-video-downloader)** — 簡潔俐落的跨瀏覽器一鍵高畫質圖片與影音下載擴充套件。<br>
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/just-image-video-download/agnjnaoiacjcdjpilmoddhgoeejbjdlp) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/zh-TW/firefox/addon/just-image-video-downloader/)
+- **[just-ad-blocker](https://github.com/ivanusto/just-ad-blocker)** — 小巧、高速且注重隱私的廣告與追蹤器攔截擴充套件，完整支援 Manifest V3。<br>
+  [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/just-ad-blocker/eijcgcfifflkbglemgjogkaoppbilbkb) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/zh-TW/firefox/addon/just-ad-blocker/)
+
+#### 🛠️ 輕量網頁工具 (Web Tools)
 - **[unmark-web](https://github.com/ivanusto/unmark-web)** — 100% 瀏覽端隱私優先 AI 浮水印、隱形標記與多媒體中繼資料清除工具 (Browser-first client stripping invisible Unicode marks & C2PA/EXIF/XMP/ID3 metadata).
 - **[md-to-wordpress-converter](https://github.com/ivanusto/md-to-wordpress-converter)** — 將 Markdown 語法轉換為 WordPress Gutenberg 原生區塊並支援一鍵複製貼上的排版工具。
 - **[image-aspect-ratio-calculator](https://github.com/ivanusto/image-aspect-ratio-calculator)** — 圖片與影片比例智慧計算、裁切與高畫質匯出工具 (Aspect Ratio & Crop Pro: 100% Client-side Privacy-First).
-- **[just-image-video-downloader](https://github.com/ivanusto/just-image-video-downloader)** — 簡潔俐落的跨瀏覽器一鍵高畫質圖片與影音下載擴充套件 (Chrome / Firefox Extension).
-- **[just-ad-blocker](https://github.com/ivanusto/just-ad-blocker)** — 小巧、高速且注重隱私的廣告與追蹤器攔截擴充套件，完整支援 Manifest V3。
 
 ### 🤖 AI, LLM & Benchmarking
 *前瞻大型語言模型應用、開源模型決策選型、Agent 評測體系與視訊生成架構。*
