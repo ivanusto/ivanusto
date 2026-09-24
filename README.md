@@ -36,6 +36,10 @@ I focus on building practical, secure, and human-centered solutions at the inter
   輕量、零依賴的 WordPress S3 與相容雲端儲存卸載外掛，無痛轉移媒體庫靜態資源。
 - **[just-gcs-offload](https://github.com/ivanusto/just-gcs-offload)** — Seamless, dependency-free Media Library offload plugin for Google Cloud Storage (GCS).<br>
   輕量無依賴的 WordPress GCS 媒體庫儲存空間卸載外掛，支援直接上傳與公開讀取優化。
+- **[just-lang](https://github.com/ivanusto/just-lang)** — Lightweight multilingual signals for WordPress: sets html lang, hreflang, og:locale, language switcher, and cache-friendly detection without URL rewriting.<br>
+  給「每種語言各做一頁」的 WordPress 輕量多語系外掛，支援 hreflang、og:locale、語言切換器與快取友善偵測，不改寫網址且零資料庫負擔。
+- **[just-share](https://github.com/ivanusto/just-share)** — Ad-blocker immune WordPress share buttons and related posts: same-site redirect links, inline SVG, and zero third-party requests.<br>
+  不會被擋廣告套件攔截的 WordPress 社群分享按鈕與延伸閱讀外掛，採同站轉址、內聯 SVG 且零第三方請求與追蹤。
 - **[zh-to-en-slug](https://github.com/ivanusto/zh-to-en-slug)** — Automatically translate Chinese post titles to clean English slugs using Google Translation API.<br>
   自動將文章中文標題翻譯為語意清晰英文 Slug 的外掛，大幅改善網址結構與可讀性。
 - **[disable-all-thumbnails](https://github.com/ivanusto/disable-all-thumbnails)** — Prevent generation of unnecessary thumbnail formats in WordPress to conserve server storage.<br>
@@ -72,9 +76,11 @@ I focus on building practical, secure, and human-centered solutions at the inter
   圖片與影片比例智慧計算、裁切與高畫質匯出工具 (Aspect Ratio & Crop Pro)。
 
 ### 🤖 AI, LLM & Benchmarking
-*Applied AI/LLM applications, model selection matrix, agent evaluation, and video generation.*<br>
-*前瞻大型語言模型應用、開源模型決策選型、Agent 評測體系與視訊生成架構。*
+*LLM inference serving, model selection matrix, agent evaluation, and video generation.*<br>
+*前瞻大型語言模型推理部署、開源模型決策選型、Agent 評測體系與視訊生成架構。*
 
+- **[dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10)** — DeepSeek-V4.1-Flash REAP-256E on stock vLLM 0.30.0 across two GB10 (TP=2): sparse-MLA patches, custom kernel, and bit-exact Engram verification.<br>
+  在雙節點 NVIDIA DGX Spark (GB10, TP=2) 上以官方 vLLM 0.30.0 部署 DeepSeek-V4.1-Flash 的修補套件、專用核心與磁碟快取精度驗證測試。
 - **[h3-ui](https://github.com/ivanusto/h3-ui)** — Lightweight web frontend and job queue for vLLM-Omni video generation servers (single-file, stdlib only).<br>
   適用於 vLLM-Omni 視訊生成伺服器的輕量網頁前端與任務佇列工具，支援隨機種子與結果復現。
 - **[open-model-selector](https://github.com/ivanusto/open-model-selector)** — Open-source AI model decision matrix and hardware pairing guide (Arena.ai Coding x CanIRun.ai).<br>
