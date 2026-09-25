@@ -105,6 +105,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 - **[gb10-ops](https://github.com/ivanusto/gb10-ops)** — Thermal and memory guard daemon for keeping an NVIDIA DGX Spark (GB10) alive under sustained unified memory load.<br>
   NVIDIA DGX Spark (GB10) 守護與採樣監控程式，在持續高溫與統一記憶體 (Unified Memory) 負載下進行自動保護。
+- **[spark-baseline](https://github.com/ivanusto/spark-baseline)** — Snapshot a DGX Spark (or any Ubuntu GPU node) as plain text, harden SSH without lockout risks, and diff two nodes or dates.<br>
+  以純文字快照記錄 DGX Spark（或任意 Ubuntu GPU 節點）系統狀態、安全強化 SSH 防範鎖死風險，並比對雙節點或跨時間配置漂移。
 - **[onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days)** — 30-day on-premise infrastructure engineering: articles, architecture blueprints, and operational scripts.<br>
   地端維運三十天：企業地端基礎設施架構、系統維運系列專文與實務自動化程式碼索引。
 - **[qnap-comfyui-qpkg](https://github.com/ivanusto/qnap-comfyui-qpkg)** — Install ComfyUI on QNAP NAS as an App Center package running on Container Station with NVIDIA GPU support.<br>
