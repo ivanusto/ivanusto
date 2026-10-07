@@ -70,6 +70,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 #### 🛠️ 輕量網頁工具 (Web Tools)
 - **[unmark-web](https://github.com/ivanusto/unmark-web)** — Browser-first client that strips invisible Unicode marks and C2PA/EXIF/XMP/ID3 metadata locally.<br>
   100% 瀏覽端隱私優先 AI 浮水印、隱形標記與多媒體中繼資料清除工具。
+- **[fortigate-log-viewer](https://github.com/ivanusto/fortigate-log-viewer)** — Privacy-first, 100% browser-side log viewer and analyzer for FortiGate exports with zero data uploads.<br>
+  100% 瀏覽端離線運作之 FortiGate 防火牆日誌解析工具，免上傳分析工作站連線軌跡、阻擋規則命中與流量資安降噪。
 - **[md-to-wordpress-converter](https://github.com/ivanusto/md-to-wordpress-converter)** — Client-side utility converting Markdown formatting directly into native WordPress Gutenberg blocks.<br>
   將 Markdown 語法轉換為 WordPress Gutenberg 原生區塊並支援一鍵複製貼上的排版工具。
 - **[image-aspect-ratio-calculator](https://github.com/ivanusto/image-aspect-ratio-calculator)** — Privacy-first 100% client-side aspect ratio calculator, cropper, and high-resolution image exporter.<br>
@@ -99,16 +101,39 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[changming-serif-tc](https://github.com/ivanusto/changming-serif-tc)** — ChangMing Serif TC: a humanist serif webfont for Traditional Chinese with Taiwanese Hokkien and Hakka coverage.<br>
   昌明體 (ChangMing Serif TC)：以思源明體為骨架的人文明體，柔化襯線圓角，完整涵蓋台客語用字，提供分片 Webfont 與外掛。
 
-### 🖥️ Infrastructure, GPU Ops & QNAP Ecosystem
-*Enterprise on-prem infrastructure, GPU thermal guards, and containerized QNAP NAS packages (.qpkg).*<br>
-*企業級地端架構、GPU 熱管理看門狗與 QNAP NAS 容器化開源應用套件 (.qpkg)。*
+### 🖥️ Enterprise Infrastructure, GPU Ops & On-Prem Ecosystem
+*Enterprise on-prem architecture, GPU thermal guards, storage governance, disaster recovery drills, and containerized QNAP packages.*<br>
+*企業級地端架構、GPU 熱管理看門狗、集中儲存治理、災難復原演練與 QNAP NAS 容器化開源應用套件。*
 
+#### 🏗️ 地端維運體系與節點守護 (On-Prem Ops & Node Guards)
+- **[onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days)** — 30-day on-premise infrastructure engineering: articles, architecture blueprints, and operational scripts.<br>
+  地端維運三十天：企業地端基礎設施架構、系統維運系列專文與實務自動化程式碼索引。
 - **[gb10-ops](https://github.com/ivanusto/gb10-ops)** — Thermal and memory guard daemon for keeping an NVIDIA DGX Spark (GB10) alive under sustained unified memory load.<br>
   NVIDIA DGX Spark (GB10) 守護與採樣監控程式，在持續高溫與統一記憶體 (Unified Memory) 負載下進行自動保護。
 - **[spark-baseline](https://github.com/ivanusto/spark-baseline)** — Snapshot a DGX Spark (or any Ubuntu GPU node) as plain text, harden SSH without lockout risks, and diff two nodes or dates.<br>
   以純文字快照記錄 DGX Spark（或任意 Ubuntu GPU 節點）系統狀態、安全強化 SSH 防範鎖死風險，並比對雙節點或跨時間配置漂移。
-- **[onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days)** — 30-day on-premise infrastructure engineering: articles, architecture blueprints, and operational scripts.<br>
-  地端維運三十天：企業地端基礎設施架構、系統維運系列專文與實務自動化程式碼索引。
+
+#### 📊 監控可觀測性與日誌保存 (Observability, Metrics & Log Retention)
+- **[onprem-metrics](https://github.com/ivanusto/onprem-metrics)** — Unified Prometheus observability for on-prem AI infrastructure: DGX Spark thermal/memory collectors, QNAP SNMP v3, PVE, and drill metrics.<br>
+  小型地端 AI 機房 Prometheus 監控體系，涵蓋 DGX Spark 熱浸潤/記憶體取樣、QNAP SNMP v3 模組、Proxmox VE 與還原演練指標。
+- **[onprem-logs](https://github.com/ivanusto/onprem-logs)** — Centralized log collection and WORM-archived retention for on-prem AI labs using systemd-journal-upload, QuLog Center, and VictoriaLogs.<br>
+  小型地端 AI 機房的無代理日誌集中與保存系統，整合 systemd-journal-upload、QuLog syslog、VictoriaLogs 與 NAS WORM 不可變封存對帳。
+
+#### 💾 儲存治理、模型庫與災難演練 (Storage Governance, Model Library & Backup Drills)
+- **[nfs-model-library](https://github.com/ivanusto/nfs-model-library)** — Single-writer centralized NFS model library on NAS: two-layer checksums, frozen permissions, lifecycle retirement, and GC.<br>
+  NAS 集中式 NFS AI 模型庫治理架構，採「單寫多讀」權限凍結設計，具備雙層 SHA256 校驗、模型生命週期管理與垃圾回收 (GC)。
+- **[storage-path-bench](https://github.com/ivanusto/storage-path-bench)** — Benchmark model weight loading time across NVMe, NFS, and iSCSI storage paths under reproducible caching conditions.<br>
+  地端 AI 儲存路徑模型載入效能基準測試工具，精確量測 NVMe、NFS 與 iSCSI 在冷熱快取與 mmap 下的模型載入時間與傳輸瓶頸。
+- **[pve-qdevice-on-qnap](https://github.com/ivanusto/pve-qdevice-on-qnap)** — Corosync QDevice third vote for 2-node Proxmox VE clusters hosted on QNAP Virtualization Station with failure drills.<br>
+  在 QNAP NAS Virtualization Station 上架設 Proxmox VE 雙節點叢集第三方仲裁投票 (QDevice/qnetd)，含自動建置腳本與四大容錯演練。
+- **[pve-backup-drill](https://github.com/ivanusto/pve-backup-drill)** — Proxmox VE backup and disaster recovery drill tools: guest canary heartbeat, automated timing, and RTO/RPO verification.<br>
+  Proxmox VE 虛擬化平台備份還原演練工具，透過客體機金絲雀心跳機制精確驗證還原點、測量 RTO/RPO 並確認資料完整性。
+- **[nas-backup-drill](https://github.com/ivanusto/nas-backup-drill)** — Backup audit and restore drill tools for QNAP NAS shared folders: snapshot auditing, canary heartbeats, and RTO/RPO measurement.<br>
+  QNAP NAS 共享資料夾備份盤點與災難還原演練工具，透過快照稽核、分級金絲雀 (Canary) 心跳與 SHA256 驗證精確量測 RTO/RPO。
+- **[cloud-offload-drill](https://github.com/ivanusto/cloud-offload-drill)** — Offsite object storage drill for NAS backups: 3-2-1 immutable copy, Object Lock compliance, cost modeling, and restore timing.<br>
+  NAS 異地物件儲存備份演練工具：實踐 3-2-1 不可變備份、S3/GCS Object Lock 防篡改驗證、冷熱儲存成本精算與實測還原計時。
+
+#### 📦 QNAP NAS 容器化套件生態 (Containerized QNAP QPKG Ecosystem)
 - **[qnap-comfyui-qpkg](https://github.com/ivanusto/qnap-comfyui-qpkg)** — Install ComfyUI on QNAP NAS as an App Center package running on Container Station with NVIDIA GPU support.<br>
   QNAP NAS 上的 ComfyUI App Center 容器化安裝套件，支援 NVIDIA RTX GPU 硬體加速與即時生成。
 - **[open-webui-ollama-qpkg](https://github.com/ivanusto/open-webui-ollama-qpkg)** — One-click Open WebUI + Ollama LLM environment on QNAP NAS Container Station with auto GPU detection.<br>
@@ -302,8 +327,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **AI / Machine Learning** | Python, PyTorch, Transformers, OpenVINO, Whisper, Hakka TTS/ASR, Ollama, vLLM |
-| **Cybersecurity** | ISO 27001, ISO 27701, SIEM, Wazuh, Cloud Security, Security Automation |
-| **Infrastructure** | Linux (Debian/Ubuntu), Docker, QNAP NAS, VMware, Nginx, Apache, Redis, GCS, AWS |
+| **Cybersecurity** | ISO 27001, ISO 27701, SIEM, FortiGate, Wazuh, Cloud Security, Security Automation, WORM Storage |
+| **Infrastructure** | Linux (Debian/Ubuntu), Proxmox VE, Docker, QNAP NAS, Prometheus, VictoriaLogs, ZFS, NFS, iSCSI, VMware, Nginx, Apache, Redis, GCS, AWS |
 | **Development & CI/CD** | Python, PHP, JavaScript (WebExtensions API), Bash, WordPress Plugins, GitHub Actions |
 
 ---
