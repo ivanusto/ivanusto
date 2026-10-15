@@ -21,7 +21,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **On-Premise AI Infrastructure & ISO 27001 Governance ([30ops](https://github.com/ivanusto/30ops) / [onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days))**
   - Architected a complete SMB on-prem operations platform unifying Prometheus metrics, VictoriaLogs WORM archiving, Git-backed change control, restore drills, and an MCP AI agent authorization gate.<br>
     從零建構對齊 ISO 27001 精神的中小企業地端 AI 機房維運平台，統合指標監控、WORM 不可變日誌封存、變更單治理、災難還原演練與 AI 代理授權閘門。
-- **Edge GPU Inference & Multi-Agent Orchestration ([dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
+- **Edge GPU Inference & Multi-Agent Orchestration ([gb10-ops](https://github.com/ivanusto/gb10-ops) / ([h3-ui](https://github.com/ivanusto/h3-ui) / ([dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
   - Pioneered multi-node NVIDIA DGX Spark (GB10, SM121) inference recipes for LLM/video generation, Traditional Chinese agent benchmarks, and context-routed multi-agent orchestration.<br>
     深耕雙節點 NVIDIA DGX Spark (GB10) 大型模型與視訊生成部署、繁體中文 Agent 能力基準評測，以及動態情境分流之多代理協同調度架構。
 - **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
