@@ -78,9 +78,11 @@ I focus on building practical, secure, and human-centered solutions at the inter
   圖片與影片比例智慧計算、裁切與高畫質匯出工具 (Aspect Ratio & Crop Pro)。
 
 ### 🤖 AI, LLM & Benchmarking
-*LLM inference serving, model selection matrix, agent evaluation, and video generation.*<br>
-*前瞻大型語言模型推理部署、開源模型決策選型、Agent 評測體系與視訊生成架構。*
+*LLM inference serving, multi-agent orchestration, model selection matrix, agent evaluation, and video generation.*<br>
+*前瞻大型語言模型推理部署、多代理協同調度、開源模型決策選型、Agent 評測體系與視訊生成架構。*
 
+- **[argon-orchestrator](https://github.com/ivanusto/argon-orchestrator)** — Antigravity (`agy`) plugin that pins Gemini 4 Argon (High) as the primary orchestrator and dynamically routes subagents to `flash` or `flash_lite` by context.<br>
+  Antigravity (`agy`) 多代理協同調度外掛：鎖定 Gemini 4 Argon (High) 為主控協調者，並依任務情境自動將子代理分流綁定至 `flash` 或 `flash_lite`。
 - **[dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10)** — DeepSeek-V4.1-Flash REAP-256E on stock vLLM 0.30.0 across two GB10 (TP=2): sparse-MLA patches, custom kernel, and bit-exact Engram verification.<br>
   在雙節點 NVIDIA DGX Spark (GB10, TP=2) 上以官方 vLLM 0.30.0 部署 DeepSeek-V4.1-Flash 的修補套件、專用核心與磁碟快取精度驗證測試。
 - **[h3-ui](https://github.com/ivanusto/h3-ui)** — Lightweight web frontend and job queue for vLLM-Omni video generation servers (single-file, stdlib only).<br>
@@ -106,6 +108,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 *企業級地端架構、GPU 熱管理看門狗、集中儲存治理、災難復原演練與 QNAP NAS 容器化開源應用套件。*
 
 #### 🏗️ 地端維運體系與節點守護 (On-Prem Ops & Node Guards)
+- **[30ops](https://github.com/ivanusto/30ops)** — Unified on-prem operations platform for SMBs: single collector VM running metrics, logs, alerting, change records, restore drills, and an MCP agent gate with vendor adapters.<br>
+  中小企業自建地端維運整合平台：由單一收集端 VM 統合指標監控、日誌封存、變更紀錄、還原演練與 AI 代理閘門，支援 QNAP、Proxmox VE、FortiGate 等多廠牌轉接器。
 - **[onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days)** — 30-day on-premise infrastructure engineering: articles, architecture blueprints, and operational scripts.<br>
   地端維運三十天：企業地端基礎設施架構、系統維運系列專文與實務自動化程式碼索引。
 - **[gb10-ops](https://github.com/ivanusto/gb10-ops)** — Thermal and memory guard daemon for keeping an NVIDIA DGX Spark (GB10) alive under sustained unified memory load.<br>
@@ -113,11 +117,15 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[spark-baseline](https://github.com/ivanusto/spark-baseline)** — Snapshot a DGX Spark (or any Ubuntu GPU node) as plain text, harden SSH without lockout risks, and diff two nodes or dates.<br>
   以純文字快照記錄 DGX Spark（或任意 Ubuntu GPU 節點）系統狀態、安全強化 SSH 防範鎖死風險，並比對雙節點或跨時間配置漂移。
 
-#### 📊 監控可觀測性與日誌保存 (Observability, Metrics & Log Retention)
+#### 📊 監控可觀測性、日誌保存與變更治理 (Observability, Logs, Change Control & Agent Gate)
 - **[onprem-metrics](https://github.com/ivanusto/onprem-metrics)** — Unified Prometheus observability for on-prem AI infrastructure: DGX Spark thermal/memory collectors, QNAP SNMP v3, PVE, and drill metrics.<br>
   小型地端 AI 機房 Prometheus 監控體系，涵蓋 DGX Spark 熱浸潤/記憶體取樣、QNAP SNMP v3 模組、Proxmox VE 與還原演練指標。
 - **[onprem-logs](https://github.com/ivanusto/onprem-logs)** — Centralized log collection and WORM-archived retention for on-prem AI labs using systemd-journal-upload, QuLog Center, and VictoriaLogs.<br>
   小型地端 AI 機房的無代理日誌集中與保存系統，整合 systemd-journal-upload、QuLog syslog、VictoriaLogs 與 NAS WORM 不可變封存對帳。
+- **[onprem-changes](https://github.com/ivanusto/onprem-changes)** — Git-backed change management for on-prem AI labs: Markdown change records, PR approvals, journal markers, Grafana annotations, Alertmanager silences, and rollback drills.<br>
+  地端 AI 機房變更紀錄與治理系統：以 Markdown 單檔與 PR 審核納管變更，自動寫入日誌起訖標記、繪製 Grafana 註記、啟用變更窗靜音並驗證回退演練。
+- **[onprem-agent-gate](https://github.com/ivanusto/onprem-agent-gate)** — Authorization gate for AI agents on on-prem infrastructure: MCP tools gated by change records, active windows, L1–L3 risk levels, single-use human approvals, and SHA-256 hash-chained audits.<br>
+  地端機房 AI 代理授權閘門：透過變更單、執行時窗、L1–L3 風險分級與單次人工核准嚴格管控 MCP 工具呼叫，並產生 SHA-256 雜湊鏈結稽核軌跡與 WORM 封存。
 
 #### 💾 儲存治理、模型庫與災難演練 (Storage Governance, Model Library & Backup Drills)
 - **[nfs-model-library](https://github.com/ivanusto/nfs-model-library)** — Single-writer centralized NFS model library on NAS: two-layer checksums, frozen permissions, lifecycle retirement, and GC.<br>
