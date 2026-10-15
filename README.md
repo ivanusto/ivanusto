@@ -2,37 +2,37 @@
   <img src="docs/banner3.jpg" alt="Ivan Lin Banner" width="100%">
 </p>
 
-# Hi, I'm Ivan Lin 👋
+# Hi, I'm Ivan Lin
 
-### 🛡️ Cybersecurity Engineer | 🤖 AI Application Developer | 🐧 Open Source Contributor
+### Cybersecurity Engineer | AI Application Developer | Open Source Contributor
 
 I focus on building practical, secure, and human-centered solutions at the intersection of **Artificial Intelligence**, **Cybersecurity**, **Linux Infrastructure**, and **Open Source Software**.
 
 ---
 
-## 🏆 Key Achievements & Research (重要榮譽與核心研發)
+## Key Achievements & Research (重要榮譽與核心研發)
 
-- 🏅 **59th Golden Bell Awards (2024 第 59 屆廣播金鐘獎)** — *Innovation & R&D Application Award (創新研發應用獎)*
+- **59th Golden Bell Awards (2024 第 59 屆廣播金鐘獎)** — *Innovation & R&D Application Award (創新研發應用獎)*
   - **AI Hakka Speech Generation Platform (AI 客語語音生成平台)** — Dedicated to Taiwanese Hakka language preservation and broadcasting innovation through end-to-end TTS/ASR speech AI.<br>
     以客語語音合成 (TTS) 與語音辨識 (ASR) 技術打造之生成式語音平台，推動本土語言數位保存與廣播實務創新。
-- 🛡️ **Trustworthy AI Hackathon 2026 (可信 AI 黑客松 2026)** — *Selected Competition Team (入選競賽團隊)*
+- **Trustworthy AI Hackathon 2026 (可信 AI 黑客松 2026)** — *Selected Competition Team (入選競賽團隊)*
   - Selected for the 2026 Trustworthy AI Hackathon, focusing on verifiable, auditable, and security-hardened AI systems and governance practices.<br>
     入選「可信 AI 黑客松 2026｜Trustworthy AI Hackathon」賽事，聚焦於可驗證、可稽核與資安強化之可信任 AI 系統與治理實踐。
-- 🏗️ **On-Premise AI Infrastructure & ISO 27001 Governance ([30ops](https://github.com/ivanusto/30ops) / [onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days))**
+- **On-Premise AI Infrastructure & ISO 27001 Governance ([30ops](https://github.com/ivanusto/30ops) / [onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days))**
   - Architected a complete SMB on-prem operations platform unifying Prometheus metrics, VictoriaLogs WORM archiving, Git-backed change control, restore drills, and an MCP AI agent authorization gate.<br>
     從零建構對齊 ISO 27001 精神的中小企業地端 AI 機房維運平台，統合指標監控、WORM 不可變日誌封存、變更單治理、災難還原演練與 AI 代理授權閘門。
-- ⚡ **Edge GPU Inference & Multi-Agent Orchestration ([dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
+- **Edge GPU Inference & Multi-Agent Orchestration ([dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
   - Pioneered multi-node NVIDIA DGX Spark (GB10, SM121) inference recipes for LLM/video generation, Traditional Chinese agent benchmarks, and context-routed multi-agent orchestration.<br>
     深耕雙節點 NVIDIA DGX Spark (GB10) 大型模型與視訊生成部署、繁體中文 Agent 能力基準評測，以及動態情境分流之多代理協同調度架構。
-- 🔤 **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
+- **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
   - Engineered an open-source humanist serif typeface and sliced webfont with comprehensive Taiwanese Hokkien and Hakka character & romanization coverage.<br>
     打造完整涵蓋台語、客語漢字與羅馬字系統的開源人文明體「昌明體」，結合現代分片 Webfont 技術延續本土語言數位傳承。
 
 ---
 
-## 🚀 Featured Open Source Projects (精選與原創專案)
+## Featured Open Source Projects (精選與原創專案)
 
-### 🌐 WordPress Plugins & Web Performance
+### WordPress Plugins & Web Performance
 *Lightweight, SEO-focused, performance-tuning, and cloud storage optimization plugins.*<br>
 *輕量、專注 SEO、效能調校、端點收斂與雲端儲存卸載的 WordPress 外掛套件。*
 
@@ -61,11 +61,11 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[modern-rss-image-feed](https://github.com/ivanusto/modern-rss-image-feed)** — Enhanced RSS feed support with modern image formats (WebP, AVIF) via Media RSS (`<media:content>`) tags.<br>
   為 RSS Feed 增添現代圖片格式（WebP、AVIF）支援，相容各類新式閱讀器。
 
-### 🧩 Browser Extensions & Web Utilities
+### Browser Extensions & Web Utilities
 *Clean, privacy-first, and utility-focused browser extensions and web tools.*<br>
 *純前端運算、隱私優先、無伺服器依賴的實用瀏覽器擴充套件與網頁工具。*
 
-#### 🌐 瀏覽器擴充套件 (Browser Extensions)
+#### 瀏覽器擴充套件 (Browser Extensions)
 - **[just-tab-reloader](https://github.com/ivanusto/just-tab-reloader)** — Minimalist cross-browser extension that auto-refreshes tabs within randomized intervals and watchdog recovery.<br>
   支援隨機區間與防呆看門狗的分頁自動重新整理擴充套件，防止監控後台與登入工作階段逾期斷線。<br>
   [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/just-tab-reloader/mdnndgdbddjlnomgpbjojbhknhlnkgpm) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-C8521A?style=flat-square&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/zh-TW/firefox/addon/just-tab-reloader/)
@@ -79,7 +79,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
   小巧、高速且注重隱私的廣告與追蹤器攔截擴充套件，完整支援 Manifest V3。<br>
   [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/just-ad-blocker/eijcgcfifflkbglemgjogkaoppbilbkb) [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-C8521A?style=flat-square&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/zh-TW/firefox/addon/just-ad-blocker/)
 
-#### 🛠️ 輕量網頁工具 (Web Tools)
+#### 輕量網頁工具 (Web Tools)
 - **[unmark-web](https://github.com/ivanusto/unmark-web)** — Browser-first client that strips invisible Unicode marks and C2PA/EXIF/XMP/ID3 metadata locally.<br>
   100% 瀏覽端隱私優先 AI 浮水印、隱形標記與多媒體中繼資料清除工具。
 - **[fortigate-log-viewer](https://github.com/ivanusto/fortigate-log-viewer)** — Privacy-first, 100% browser-side log viewer and analyzer for FortiGate exports with zero data uploads.<br>
@@ -89,7 +89,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[image-aspect-ratio-calculator](https://github.com/ivanusto/image-aspect-ratio-calculator)** — Privacy-first 100% client-side aspect ratio calculator, cropper, and high-resolution image exporter.<br>
   圖片與影片比例智慧計算、裁切與高畫質匯出工具 (Aspect Ratio & Crop Pro)。
 
-### 🤖 AI, LLM & Benchmarking
+### AI, LLM & Benchmarking
 *LLM inference serving, multi-agent orchestration, model selection matrix, agent evaluation, and video generation.*<br>
 *前瞻大型語言模型推理部署、多代理協同調度、開源模型決策選型、Agent 評測體系與視訊生成架構。*
 
@@ -108,18 +108,18 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[Hakka Speech AI (客語語音生成平台)](https://github.com/ivanusto)** — 2024 Golden Bell Award-winning Hakka TTS/ASR speech models and minority language digitization research.<br>
   榮獲 2024 廣播金鐘獎之客語語音合成 (TTS) 與語音辨識 (ASR) 核心技術研發與本土語言數位典藏。
 
-### 🔤 Typography & CJK Webfonts
+### Typography & CJK Webfonts
 *Humanist typography, minority language support, and modern webfont optimization.*<br>
 *本土語言字元支援、人文襯線風格與現代網頁字型切片優化。*
 
 - **[changming-serif-tc](https://github.com/ivanusto/changming-serif-tc)** — ChangMing Serif TC: a humanist serif webfont for Traditional Chinese with Taiwanese Hokkien and Hakka coverage.<br>
   昌明體 (ChangMing Serif TC)：以思源明體為骨架的人文明體，柔化襯線圓角，完整涵蓋台客語用字，提供分片 Webfont 與外掛。
 
-### 🖥️ Enterprise Infrastructure, GPU Ops & On-Prem Ecosystem
+### Enterprise Infrastructure, GPU Ops & On-Prem Ecosystem
 *Enterprise on-prem architecture, GPU thermal guards, storage governance, disaster recovery drills, and containerized QNAP packages.*<br>
 *企業級地端架構、GPU 熱管理看門狗、集中儲存治理、災難復原演練與 QNAP NAS 容器化開源應用套件。*
 
-#### 🏗️ 地端維運體系與節點守護 (On-Prem Ops & Node Guards)
+#### 地端維運體系與節點守護 (On-Prem Ops & Node Guards)
 - **[30ops](https://github.com/ivanusto/30ops)** — Unified on-prem operations platform for SMBs: single collector VM running metrics, logs, alerting, change records, restore drills, and an MCP agent gate with vendor adapters.<br>
   中小企業自建地端維運整合平台：由單一收集端 VM 統合指標監控、日誌封存、變更紀錄、還原演練與 AI 代理閘門，支援 QNAP、Proxmox VE、FortiGate 等多廠牌轉接器。
 - **[onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days)** — 30-day on-premise infrastructure engineering: articles, architecture blueprints, and operational scripts.<br>
@@ -129,7 +129,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[spark-baseline](https://github.com/ivanusto/spark-baseline)** — Snapshot a DGX Spark (or any Ubuntu GPU node) as plain text, harden SSH without lockout risks, and diff two nodes or dates.<br>
   以純文字快照記錄 DGX Spark（或任意 Ubuntu GPU 節點）系統狀態、安全強化 SSH 防範鎖死風險，並比對雙節點或跨時間配置漂移。
 
-#### 📊 監控可觀測性、日誌保存與變更治理 (Observability, Logs, Change Control & Agent Gate)
+#### 監控可觀測性、日誌保存與變更治理 (Observability, Logs, Change Control & Agent Gate)
 - **[onprem-metrics](https://github.com/ivanusto/onprem-metrics)** — Unified Prometheus observability for on-prem AI infrastructure: DGX Spark thermal/memory collectors, QNAP SNMP v3, PVE, and drill metrics.<br>
   小型地端 AI 機房 Prometheus 監控體系，涵蓋 DGX Spark 熱浸潤/記憶體取樣、QNAP SNMP v3 模組、Proxmox VE 與還原演練指標。
 - **[onprem-logs](https://github.com/ivanusto/onprem-logs)** — Centralized log collection and WORM-archived retention for on-prem AI labs using systemd-journal-upload, QuLog Center, and VictoriaLogs.<br>
@@ -139,7 +139,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[onprem-agent-gate](https://github.com/ivanusto/onprem-agent-gate)** — Authorization gate for AI agents on on-prem infrastructure: MCP tools gated by change records, active windows, L1–L3 risk levels, single-use human approvals, and SHA-256 hash-chained audits.<br>
   地端機房 AI 代理授權閘門：透過變更單、執行時窗、L1–L3 風險分級與單次人工核准嚴格管控 MCP 工具呼叫，並產生 SHA-256 雜湊鏈結稽核軌跡與 WORM 封存。
 
-#### 💾 儲存治理、模型庫與災難演練 (Storage Governance, Model Library & Backup Drills)
+#### 儲存治理、模型庫與災難演練 (Storage Governance, Model Library & Backup Drills)
 - **[nfs-model-library](https://github.com/ivanusto/nfs-model-library)** — Single-writer centralized NFS model library on NAS: two-layer checksums, frozen permissions, lifecycle retirement, and GC.<br>
   NAS 集中式 NFS AI 模型庫治理架構，採「單寫多讀」權限凍結設計，具備雙層 SHA256 校驗、模型生命週期管理與垃圾回收 (GC)。
 - **[storage-path-bench](https://github.com/ivanusto/storage-path-bench)** — Benchmark model weight loading time across NVMe, NFS, and iSCSI storage paths under reproducible caching conditions.<br>
@@ -153,7 +153,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[cloud-offload-drill](https://github.com/ivanusto/cloud-offload-drill)** — Offsite object storage drill for NAS backups: 3-2-1 immutable copy, Object Lock compliance, cost modeling, and restore timing.<br>
   NAS 異地物件儲存備份演練工具：實踐 3-2-1 不可變備份、S3/GCS Object Lock 防篡改驗證、冷熱儲存成本精算與實測還原計時。
 
-#### 📦 QNAP NAS 容器化套件生態 (Containerized QNAP QPKG Ecosystem)
+#### QNAP NAS 容器化套件生態 (Containerized QNAP QPKG Ecosystem)
 - **[qnap-comfyui-qpkg](https://github.com/ivanusto/qnap-comfyui-qpkg)** — Install ComfyUI on QNAP NAS as an App Center package running on Container Station with NVIDIA GPU support.<br>
   QNAP NAS 上的 ComfyUI App Center 容器化安裝套件，支援 NVIDIA RTX GPU 硬體加速與即時生成。
 - **[open-webui-ollama-qpkg](https://github.com/ivanusto/open-webui-ollama-qpkg)** — One-click Open WebUI + Ollama LLM environment on QNAP NAS Container Station with auto GPU detection.<br>
@@ -167,36 +167,36 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[qpkg-template](https://github.com/ivanusto/qpkg-template)** — Ready-to-use template and scaffolding for packaging applications into QNAP App Center packages (.qpkg).<br>
   QNAP NAS App Center 套件 (.qpkg) 快速封裝範本與骨架專案，便於快速建立專屬套件。
 
-### 🎨 Achievement System Platforms
+### Achievement System Platforms
 *Interactive Washi-style notebook platforms for footprint tracking, life milestones, and share card generation.*<br>
 *結合個人足跡打卡、人生里程碑收集與手帳風分享圖卡生成器的沉浸式 Web 應用系列。*
 
 - **[travel-achievement-list](https://github.com/ivanusto/travel-achievement-list)** — Earth Travel Achievements: A Washi-style notebook platform for tracking global travel footprints and generating share cards.<br>
-  🌍 地球旅行成就系統：結合全球旅遊足跡打卡、里程碑收集與手帳風分享圖卡生成的手帳平台。
+  地球旅行成就系統：結合全球旅遊足跡打卡、里程碑收集與手帳風分享圖卡生成的手帳平台。
 - **[taiwan-travel-achievement-list](https://github.com/ivanusto/taiwan-travel-achievement-list)** — Taiwan Travel Achievements: Footprint tracking across Taiwan townships and attractions with custom share cards.<br>
-  🌍 台灣旅行成就系統：深度走訪台灣各鄉鎮市區景點的足跡打卡手帳與分享卡生成器。
+  台灣旅行成就系統：深度走訪台灣各鄉鎮市區景點的足跡打卡手帳與分享卡生成器。
 - **[japan-travel-achievement-list](https://github.com/ivanusto/japan-travel-achievement-list)** — Japan Travel Achievements: Track 47 prefectures footprints, unlock regional badges, and export travel cards.<br>
-  🇯🇵 日本旅行成就系統：日本 47 都道府縣足跡探索、名所成就解鎖與和風手帳圖卡分享平台。
+  日本旅行成就系統：日本 47 都道府縣足跡探索、名所成就解鎖與和風手帳圖卡分享平台。
 - **[developer-achievement-list](https://github.com/ivanusto/developer-achievement-list)** — Developer Achievement System: Track software engineering tech stacks, career milestones, and dev footprints.<br>
-  💻 軟體開發工程師成就系統：專為工程師打造的技術版圖、職涯里程碑與開發足跡手帳平台。
+  軟體開發工程師成就系統：專為工程師打造的技術版圖、職涯里程碑與開發足跡手帳平台。
 - **[life-achievement-list](https://github.com/ivanusto/life-achievement-list)** — Life Achievement System: Notebook platform for recording personal milestones, life footprints, and memories.<br>
-  📖 個人人生成就清單系統：記錄個人生命重要歷程、生活足跡與暖心記憶的手帳風平台。
+  個人人生成就清單系統：記錄個人生命重要歷程、生活足跡與暖心記憶的手帳風平台。
 - **[gamer-achievement-list](https://github.com/ivanusto/gamer-achievement-list)** — Gamer Achievement List: 135+ unlockable gaming achievements, domain radar, and gamer title badges.<br>
-  🎮 遊戲玩家解鎖成就清單：橫跨各大遊戲領域的 135+ 項成就打卡、領域雷達圖與玩家專屬稱號。
+  遊戲玩家解鎖成就清單：橫跨各大遊戲領域的 135+ 項成就打卡、領域雷達圖與玩家專屬稱號。
 - **[anime-achievement-list](https://github.com/ivanusto/anime-achievement-list)** — Anime Achievement List: Otaku achievement checklist, gacha cards, and shareable anime fan cards.<br>
-  🎌 動漫成就打卡與稱號系統：動漫迷必備的成就清單、領域宅力稱號與專屬動漫分享卡。
+  動漫成就打卡與稱號系統：動漫迷必備的成就清單、領域宅力稱號與專屬動漫分享卡。
 - **[couple-achievement-list](https://github.com/ivanusto/couple-achievement-list)** — Couple Achievement List: Relationship milestone checklist, intimacy radar, and sweet memory cards.<br>
-  💑 伴侶與親密關係成就系統：情侶與夫妻的專屬甜蜜打卡、親密關係雷達圖與回憶圖卡。
+  伴侶與親密關係成就系統：情侶與夫妻的專屬甜蜜打卡、親密關係雷達圖與回憶圖卡。
 
 ---
 
-## 📦 Curated & Forked Open Source Ecosystem (精選引進、移植與關注開源生態)
+## Curated & Forked Open Source Ecosystem (精選引進、移植與關注開源生態)
 
 *Curated open-source projects, ported packages, and actively tracked repositories.*<br>
 *深度研究、引進移植與持續追蹤之開源生態專案：*
 
 <details open>
-<summary><b>🤖 AI Agent, LLM Harness & Prompt Engineering (智慧代理與開發增強)</b></summary>
+<summary><b>AI Agent, LLM Harness & Prompt Engineering (智慧代理與開發增強)</b></summary>
 
 - **[everything-claude-code](https://github.com/ivanusto/everything-claude-code)** — Agent harness performance optimization system, skills, memory, and research workflows for AI coding assistants.<br>
   Agent 效能最佳化系統、技能與記憶機制（支援 Claude Code、Codex、Cursor 等工具）。
@@ -208,7 +208,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
   NotebookLM 的 MCP 伺服器，讓 AI 代理直接調用具來源引用的 Gemini 知識庫。
 - **[deepseek-harness](https://github.com/ivanusto/deepseek-harness)** — Plugin-based intelligent agent harness architecture for DeepSeek models.<br>
   DeepSeek Harness 插件式智慧代理架構，具備高度擴展性與模組化能力。
-- **[moltbot](https://github.com/ivanusto/moltbot)** — Cross-platform personal AI assistant running anywhere (the lobster way 🦞).<br>
+- **[moltbot](https://github.com/ivanusto/moltbot)** — Cross-platform personal AI assistant running anywhere (the lobster way).<br>
   全平台個人 AI 智慧助理，支援多種作業系統與聊天平台。
 - **[docforge](https://github.com/ivanusto/docforge)** — Documentation-driven development template and scaffolding for AI-assisted projects.<br>
   文檔驅動開發 (Doc-driven development) 之 AI 專案範本，加速規格制定。
@@ -227,7 +227,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>⚡ LLM Serving, Inference & Distributed Training (大型語言模型推理與分散式訓練)</b></summary>
+<summary><b>LLM Serving, Inference & Distributed Training (大型語言模型推理與分散式訓練)</b></summary>
 
 - **[vllm](https://github.com/ivanusto/vllm)** & **[vllm-omni](https://github.com/ivanusto/vllm-omni)** — High-throughput, memory-efficient LLM and omni-modality serving and inference engines.<br>
   高吞吐、高顯存效率的 LLM 與全模態 (Omni) 推理引擎，廣泛用於生產環境。
@@ -246,7 +246,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>🎬 Generative Media, Diffusion & Video Models (影像與視訊生成前沿)</b></summary>
+<summary><b>Generative Media, Diffusion & Video Models (影像與視訊生成前沿)</b></summary>
 
 - **[MiniMax-H3-DGX-Spark](https://github.com/ivanusto/MiniMax-H3-DGX-Spark)** — Measured SM121 compatibility recipe for MiniMax H3 FL2VA on NVIDIA DGX Spark with vLLM-Omni and online FP8.<br>
   在 NVIDIA DGX Spark 上透過 vLLM-Omni 與在線 FP8 執行 MiniMax H3 FL2VA 之 SM121 相容配方。
@@ -271,7 +271,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>🎨 ComfyUI & Diffusion WebUI Ecosystem (AI 繪圖節點與工作流生態)</b></summary>
+<summary><b>ComfyUI & Diffusion WebUI Ecosystem (AI 繪圖節點與工作流生態)</b></summary>
 
 - **[ComfyUI](https://github.com/ivanusto/ComfyUI)** — Modular, node-based Stable Diffusion and generative AI GUI and backend.<br>
   強大且模組化的節點式 Stable Diffusion / Flux 工作流 GUI 與後端架構。
@@ -292,7 +292,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>🗣️ Speech Synthesis & Molecular Biology (語音技術與分子預測)</b></summary>
+<summary><b>Speech Synthesis & Molecular Biology (語音技術與分子預測)</b></summary>
 
 - **[ChatTTS-ui](https://github.com/ivanusto/ChatTTS-ui)** — Local web interface and API wrapper for the ChatTTS conversational speech synthesis model.<br>
   對話式擬真語音合成 ChatTTS 之本機網頁操作介面與對外 API 服務。
@@ -303,7 +303,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>🔒 Cybersecurity, Privacy & Reverse Engineering (資訊安全、逆向工程與隱私清理)</b></summary>
+<summary><b>Cybersecurity, Privacy & Reverse Engineering (資訊安全、逆向工程與隱私清理)</b></summary>
 
 - **[watermarks-remover](https://github.com/ivanusto/watermarks-remover)** — Python service stripping AI provenance marks, Unicode marks, and metadata from media and docs.<br>
   清除跨廠商 AI 浮水印、Unicode 隱形文字標記、C2PA 與多媒體中繼資料的後端服務。
@@ -316,7 +316,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>🛠️ System Infrastructure, Fonts & WordPress Tools (系統維運、字型與開源工具)</b></summary>
+<summary><b>System Infrastructure, Fonts & WordPress Tools (系統維運、字型與開源工具)</b></summary>
 
 - **[Jellyfin-QPKG](https://github.com/ivanusto/Jellyfin-QPKG)** — QNAP QPKG deployment package for Jellyfin media server using Container Station.<br>
   QNAP NAS 原生 Container Station 封裝之 Jellyfin 影音媒體串流伺服器套件。
@@ -342,7 +342,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -353,17 +353,17 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## 🌏 Connect & Collaborate
+## Connect & Collaborate
 
 > *"Practical. Secure. Open. Human-centered."*
 
-- 🐙 **GitHub**: [github.com/ivanusto](https://github.com/ivanusto)
-- 📝 **Blog**: [優格網 (yblog.org)](https://yblog.org)
-- 𝕏 **X (Twitter)**: [@ivanusto](https://x.com/ivanusto)
-- 🧵 **Threads**: [@ivanusto](https://www.threads.net/@ivanusto)
-- 📸 **Instagram**: [@ivanusto](https://www.instagram.com/ivanusto/)
-- 📘 **Facebook**: [ivanusto](https://www.facebook.com/ivanusto)
+- **GitHub**: [github.com/ivanusto](https://github.com/ivanusto)
+- **Blog**: [優格網 (yblog.org)](https://yblog.org)
+- **X (Twitter)**: [@ivanusto](https://x.com/ivanusto)
+- **Threads**: [@ivanusto](https://www.threads.net/@ivanusto)
+- **Instagram**: [@ivanusto](https://www.instagram.com/ivanusto/)
+- **Facebook**: [ivanusto](https://www.facebook.com/ivanusto)
 
 ---
 
-⭐️ Feel free to check out my repositories and drop a star if you find them helpful!
+Feel free to check out my repositories and drop a star if you find them helpful!
