@@ -10,11 +10,23 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## 🏆 Key Achievements & Research
+## 🏆 Key Achievements & Research (重要榮譽與核心研發)
 
-- 🏅 **2024 Golden Bell Award (廣播金鐘獎)** — *Innovation & R&D Application Award*
-  - **Project**: AI Hakka Speech Generation Platform (AI 客語語音生成平台)
-  - Dedicated to minority language preservation and speech AI applications through TTS/ASR technologies.
+- 🏅 **59th Golden Bell Awards (2024 第 59 屆廣播金鐘獎)** — *Innovation & R&D Application Award (創新研發應用獎)*
+  - **AI Hakka Speech Generation Platform (AI 客語語音生成平台)** — Dedicated to Taiwanese Hakka language preservation and broadcasting innovation through end-to-end TTS/ASR speech AI.<br>
+    以客語語音合成 (TTS) 與語音辨識 (ASR) 技術打造之生成式語音平台，推動本土語言數位保存與廣播實務創新。
+- 🛡️ **Trustworthy AI Hackathon 2026 (可信 AI 黑客松 2026)** — *Selected Competition Team (入選競賽團隊)*
+  - Selected for the 2026 Trustworthy AI Hackathon, focusing on verifiable, auditable, and security-hardened AI systems and governance practices.<br>
+    入選「可信 AI 黑客松 2026｜Trustworthy AI Hackathon」賽事，聚焦於可驗證、可稽核與資安強化之可信任 AI 系統與治理實踐。
+- 🏗️ **On-Premise AI Infrastructure & ISO 27001 Governance ([30ops](https://github.com/ivanusto/30ops) / [onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days))**
+  - Architected a complete SMB on-prem operations platform unifying Prometheus metrics, VictoriaLogs WORM archiving, Git-backed change control, restore drills, and an MCP AI agent authorization gate.<br>
+    從零建構對齊 ISO 27001 精神的中小企業地端 AI 機房維運平台，統合指標監控、WORM 不可變日誌封存、變更單治理、災難還原演練與 AI 代理授權閘門。
+- ⚡ **Edge GPU Inference & Multi-Agent Orchestration ([dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
+  - Pioneered multi-node NVIDIA DGX Spark (GB10, SM121) inference recipes for LLM/video generation, Traditional Chinese agent benchmarks, and context-routed multi-agent orchestration.<br>
+    深耕雙節點 NVIDIA DGX Spark (GB10) 大型模型與視訊生成部署、繁體中文 Agent 能力基準評測，以及動態情境分流之多代理協同調度架構。
+- 🔤 **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
+  - Engineered an open-source humanist serif typeface and sliced webfont with comprehensive Taiwanese Hokkien and Hakka character & romanization coverage.<br>
+    打造完整涵蓋台語、客語漢字與羅馬字系統的開源人文明體「昌明體」，結合現代分片 Webfont 技術延續本土語言數位傳承。
 
 ---
 
