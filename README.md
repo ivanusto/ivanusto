@@ -26,7 +26,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
     深耕雙節點 NVIDIA DGX Spark (GB10) 大型模型與視訊生成部署、繁體中文 Agent 能力基準評測，以及動態情境分流之多代理協同調度架構。
 - **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
   - Engineered an open-source humanist serif typeface and sliced webfont with comprehensive Taiwanese Hokkien and Hakka character & romanization coverage.<br>
-    打造完整涵蓋台語、客語漢字與羅馬字系統的開源人文明體「昌明體」，結合現代分片 Webfont 技術延續本土語言數位傳承。
+    打造完整涵蓋台灣閩南語、台灣客語字與台羅拼音字等系統的開源人文明體「昌明體」，結合現代分片 Webfont 技術延續本土語言數位傳承。
 
 ---
 
@@ -34,7 +34,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ### Typography & CJK Webfonts
 *Humanist typography, minority language support, and modern webfont optimization.*<br>
-*本土語言字元支援、人文襯線風格與現代網頁字型切片優化。*
+*本土語言字元支援、人文襯線風格與現代網頁字型 (webfont) 切片最佳化。*
 
 - **[changming-serif-tc](https://github.com/ivanusto/changming-serif-tc)** — ChangMing Serif TC: a humanist serif webfont for Traditional Chinese with Taiwanese Hokkien and Hakka coverage.<br>
   昌明體 (ChangMing Serif TC)：以思源明體為骨架的人文明體，柔化襯線圓角，完整涵蓋台客語用字，提供分片 Webfont 與外掛。
