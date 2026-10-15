@@ -81,8 +81,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 *LLM inference serving, multi-agent orchestration, model selection matrix, agent evaluation, and video generation.*<br>
 *前瞻大型語言模型推理部署、多代理協同調度、開源模型決策選型、Agent 評測體系與視訊生成架構。*
 
-- **[argon-orchestrator](https://github.com/ivanusto/argon-orchestrator)** — Antigravity (`agy`) plugin that pins Gemini 4 Argon (High) as the primary orchestrator and dynamically routes subagents to `flash` or `flash_lite` by context.<br>
-  Antigravity (`agy`) 多代理協同調度外掛：鎖定 Gemini 4 Argon (High) 為主控協調者，並依任務情境自動將子代理分流綁定至 `flash` 或 `flash_lite`。
+- **[argon-orchestrator](https://github.com/ivanusto/argon-orchestrator)** — Antigravity (`agy`) plugin that pins Gemini 4 Argon (`High` or `Medium`) as the primary orchestrator and dynamically routes subagents to `flash` or `flash_lite` by context.<br>
+  Antigravity (`agy`) 多代理協同調度外掛：綁定 Gemini 4 Argon (`High` / `Medium`) 為主控協調者（自動跟隨所選思考等級），並依任務情境自動將子代理分流至 `flash` 或 `flash_lite`。
 - **[dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10)** — DeepSeek-V4.1-Flash REAP-256E on stock vLLM 0.30.0 across two GB10 (TP=2): sparse-MLA patches, custom kernel, and bit-exact Engram verification.<br>
   在雙節點 NVIDIA DGX Spark (GB10, TP=2) 上以官方 vLLM 0.30.0 部署 DeepSeek-V4.1-Flash 的修補套件、專用核心與磁碟快取精度驗證測試。
 - **[h3-ui](https://github.com/ivanusto/h3-ui)** — Lightweight web frontend and job queue for vLLM-Omni video generation servers (single-file, stdlib only).<br>
