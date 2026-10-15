@@ -32,6 +32,13 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ## Featured Open Source Projects (個人專案列表)
 
+### Typography & CJK Webfonts
+*Humanist typography, minority language support, and modern webfont optimization.*<br>
+*本土語言字元支援、人文襯線風格與現代網頁字型切片優化。*
+
+- **[changming-serif-tc](https://github.com/ivanusto/changming-serif-tc)** — ChangMing Serif TC: a humanist serif webfont for Traditional Chinese with Taiwanese Hokkien and Hakka coverage.<br>
+  昌明體 (ChangMing Serif TC)：以思源明體為骨架的人文明體，柔化襯線圓角，完整涵蓋台客語用字，提供分片 Webfont 與外掛。
+
 ### WordPress Plugins & Web Performance
 *Lightweight, SEO-focused, performance-tuning, and cloud storage optimization plugins.*<br>
 *輕量、專注 SEO、效能調校、端點收斂與雲端儲存卸載的 WordPress 外掛套件。*
@@ -107,13 +114,6 @@ I focus on building practical, secure, and human-centered solutions at the inter
   MiniMax-H3 與 LTX-2.5 視訊生成效能基準測試與 ComfyUI HTTP API 驅動工具，含圖形扁平化與散熱保護。
 - **[Hakka Speech AI (客語語音生成平台)](https://github.com/ivanusto)** — 2024 Golden Bell Award-winning Hakka TTS/ASR speech models and minority language digitization research.<br>
   榮獲 2024 廣播金鐘獎之客語語音合成 (TTS) 與語音辨識 (ASR) 核心技術研發與本土語言數位典藏。
-
-### Typography & CJK Webfonts
-*Humanist typography, minority language support, and modern webfont optimization.*<br>
-*本土語言字元支援、人文襯線風格與現代網頁字型切片優化。*
-
-- **[changming-serif-tc](https://github.com/ivanusto/changming-serif-tc)** — ChangMing Serif TC: a humanist serif webfont for Traditional Chinese with Taiwanese Hokkien and Hakka coverage.<br>
-  昌明體 (ChangMing Serif TC)：以思源明體為骨架的人文明體，柔化襯線圓角，完整涵蓋台客語用字，提供分片 Webfont 與外掛。
 
 ### Enterprise Infrastructure, GPU Ops & On-Prem Ecosystem
 *Enterprise on-prem architecture, GPU thermal guards, storage governance, disaster recovery drills, and containerized QNAP packages.*<br>
