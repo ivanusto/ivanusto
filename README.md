@@ -10,7 +10,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## Key Achievements & Research (重要研發方向)
+## Key Achievements & Research (重要研究方向與成果)
 
 - **59th Golden Bell Awards (2024 第 59 屆廣播金鐘獎)** — *Innovation & R&D Application Award (創新研發應用獎)*
   - **AI Hakka Speech Generation Platform (AI 客語語音生成平台)** — Dedicated to Taiwanese Hakka language preservation and broadcasting innovation through end-to-end TTS/ASR speech AI.<br>
@@ -30,7 +30,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## Featured Open Source Projects (精選個人原創專案)
+## Featured Open Source Projects (個人原創專案列表)
 
 ### WordPress Plugins & Web Performance
 *Lightweight, SEO-focused, performance-tuning, and cloud storage optimization plugins.*<br>
