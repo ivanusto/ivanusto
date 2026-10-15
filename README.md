@@ -30,7 +30,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 ---
 
-## Featured Open Source Projects (個人原創專案列表)
+## Featured Open Source Projects (個人專案列表)
 
 ### WordPress Plugins & Web Performance
 *Lightweight, SEO-focused, performance-tuning, and cloud storage optimization plugins.*<br>
