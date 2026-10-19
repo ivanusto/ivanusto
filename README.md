@@ -21,7 +21,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **On-Premise AI Infrastructure & ISO 27001 Governance ([30ops](https://github.com/ivanusto/30ops) / [onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days))**
   - Architected a complete SMB on-prem operations platform unifying Prometheus metrics, VictoriaLogs WORM archiving, Git-backed change control, restore drills, and an MCP AI agent authorization gate.<br>
     從零建構對齊 ISO 27001 精神的中小企業地端 AI 機房維運平台，統合指標監控、WORM 不可變日誌封存、變更單治理、災難還原演練與 AI 代理授權閘門。
-- **Edge GPU Inference & Multi-Agent Orchestration ([gb10-ops](https://github.com/ivanusto/gb10-ops) / ([h3-ui](https://github.com/ivanusto/h3-ui) / ([dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
+- **Edge GPU Inference & Multi-Agent Orchestration ([gb10-ops](https://github.com/ivanusto/gb10-ops) / [h3-ui](https://github.com/ivanusto/h3-ui) / [dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [mitosis-orchestrator](https://github.com/ivanusto/mitosis-orchestrator) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
   - Pioneered multi-node NVIDIA DGX Spark (GB10, SM121) inference recipes for LLM/video generation, Traditional Chinese agent benchmarks, and context-routed multi-agent orchestration.<br>
     深耕雙節點 NVIDIA DGX Spark (GB10) 大型模型與視訊生成部署、繁體中文 Agent 能力基準評測，以及動態情境分流之多代理協同調度架構。
 - **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
@@ -100,6 +100,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 *LLM inference serving, multi-agent orchestration, model selection matrix, agent evaluation, and video generation.*<br>
 *前瞻大型語言模型推理部署、多代理協同調度、開源模型決策選型、Agent 評測體系與視訊生成架構。*
 
+- **[mitosis-orchestrator](https://github.com/ivanusto/mitosis-orchestrator)** — Cross-model frontier orchestrator across Google Antigravity (`agy`), Claude Code, and OpenAI Codex CLI — pins frontier models (xAI Grok, Claude Fable/Opus/Sonnet, Gemini Argon/Pro/Ultra, OpenAI GPT/o-series, DeepSeek, Qwen) as Master Architect and divides subagents into execution (`flash` / `worker`) & reconnaissance (`flash_lite` / `scout`).<br>
+  跨模型有絲分裂多代理調度外掛（支援 Antigravity `agy`、Claude Code 與 Codex CLI）：鎖定前沿推理模型為主核架構師，並依任務情境自動將子代理分流綁定至執行層 (`flash` / `worker`) 與唯讀偵察層 (`flash_lite` / `scout`)。
 - **[argon-orchestrator](https://github.com/ivanusto/argon-orchestrator)** — Antigravity (`agy`) plugin that pins Gemini 4 Argon (`High` or `Medium`) as the primary orchestrator and dynamically routes subagents to `flash` or `flash_lite` by context.<br>
   Antigravity (`agy`) 多代理協同調度外掛：綁定 Gemini 4 Argon (`High` / `Medium`) 為主控協調者（自動跟隨所選思考等級），並依任務情境自動將子代理分流至 `flash` 或 `flash_lite`。
 - **[dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10)** — DeepSeek-V4.1-Flash REAP-256E on stock vLLM 0.30.0 across two GB10 (TP=2): sparse-MLA patches, custom kernel, and bit-exact Engram verification.<br>
@@ -200,6 +202,8 @@ I focus on building practical, secure, and human-centered solutions at the inter
 
 - **[everything-claude-code](https://github.com/ivanusto/everything-claude-code)** — Agent harness performance optimization system, skills, memory, and research workflows for AI coding assistants.<br>
   Agent 效能最佳化系統、技能與記憶機制（支援 Claude Code、Codex、Cursor 等工具）。
+- **[ai-job-search](https://github.com/ivanusto/ai-job-search)** — Local AI job application framework built on Claude Code to evaluate postings, tailor CVs, write cover letters, and prepare interviews.<br>
+  基於 Claude Code 運行的本機 AI 求職與申請框架，支援職缺評估、履歷客製化、求職信撰寫與面試準備。
 - **[academic-research-skills](https://github.com/ivanusto/academic-research-skills)** — Academic research skill modules for Claude Code (research → write → review → revise → finalize).<br>
   Claude Code 學術研究技能模組（涵蓋文獻研究、撰寫、審閱到最終定稿之完整流程）。
 - **[skills](https://github.com/ivanusto/skills)** — Public ecosystem repository for Claude Code and agent skills.<br>
