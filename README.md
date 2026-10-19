@@ -21,7 +21,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **On-Premise AI Infrastructure & ISO 27001 Governance ([30ops](https://github.com/ivanusto/30ops) / [onprem-ops-30days](https://github.com/ivanusto/onprem-ops-30days))**
   - Architected a complete SMB on-prem operations platform unifying Prometheus metrics, VictoriaLogs WORM archiving, Git-backed change control, restore drills, and an MCP AI agent authorization gate.<br>
     從零建構對齊 ISO 27001 精神的中小企業地端 AI 機房維運平台，統合指標監控、WORM 不可變日誌封存、變更單治理、災難還原演練與 AI 代理授權閘門。
-- **Edge GPU Inference & Multi-Agent Orchestration ([gb10-ops](https://github.com/ivanusto/gb10-ops) / [h3-ui](https://github.com/ivanusto/h3-ui) / [dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [mitosis-orchestrator](https://github.com/ivanusto/mitosis-orchestrator) / [argon-orchestrator](https://github.com/ivanusto/argon-orchestrator))**
+- **Edge GPU Inference & Multi-Agent Orchestration ([gb10-ops](https://github.com/ivanusto/gb10-ops) / [h3-ui](https://github.com/ivanusto/h3-ui) / [dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10) / [mitosis-orchestrator](https://github.com/ivanusto/mitosis-orchestrator)**
   - Pioneered multi-node NVIDIA DGX Spark (GB10, SM121) inference recipes for LLM/video generation, Traditional Chinese agent benchmarks, and context-routed multi-agent orchestration.<br>
     深耕雙節點 NVIDIA DGX Spark (GB10) 大型模型與視訊生成部署、繁體中文 Agent 能力基準評測，以及動態情境分流之多代理協同調度架構。
 - **Taiwanese Local Language Typography ([ChangMing Serif TC 昌明體](https://github.com/ivanusto/changming-serif-tc))**
@@ -101,7 +101,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 *前瞻大型語言模型推理部署、多代理協同調度、開源模型決策選型、Agent 評測體系與視訊生成架構。*
 
 - **[mitosis-orchestrator](https://github.com/ivanusto/mitosis-orchestrator)** — Cross-model frontier orchestrator across Google Antigravity (`agy`), Claude Code, and OpenAI Codex CLI — pins frontier models (xAI Grok, Claude Fable/Opus/Sonnet, Gemini Argon/Pro/Ultra, OpenAI GPT/o-series, DeepSeek, Qwen) as Master Architect and divides subagents into execution (`flash` / `worker`) & reconnaissance (`flash_lite` / `scout`).<br>
-  跨模型有絲分裂多代理調度外掛（支援 Antigravity `agy`、Claude Code 與 Codex CLI）：鎖定前沿推理模型為主核架構師，並依任務情境自動將子代理分流綁定至執行層 (`flash` / `worker`) 與唯讀偵察層 (`flash_lite` / `scout`)。
+  跨模型有絲分裂多代理調度外掛（支援 Antigravity `agy`、Claude Code 與 Codex CLI）：鎖定尖端推理模型為主核架構師，並依任務情境自動將子代理分流綁定至執行層 (`flash` / `worker`) 與唯讀偵察層 (`flash_lite` / `scout`)。
 - **[argon-orchestrator](https://github.com/ivanusto/argon-orchestrator)** — Antigravity (`agy`) plugin that pins Gemini 4 Argon (`High` or `Medium`) as the primary orchestrator and dynamically routes subagents to `flash` or `flash_lite` by context.<br>
   Antigravity (`agy`) 多代理協同調度外掛：綁定 Gemini 4 Argon (`High` / `Medium`) 為主控協調者（自動跟隨所選思考等級），並依任務情境自動將子代理分流至 `flash` 或 `flash_lite`。
 - **[dsv41-flash-vllm030-2x-gb10](https://github.com/ivanusto/dsv41-flash-vllm030-2x-gb10)** — DeepSeek-V4.1-Flash REAP-256E on stock vLLM 0.30.0 across two GB10 (TP=2): sparse-MLA patches, custom kernel, and bit-exact Engram verification.<br>
@@ -250,7 +250,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 </details>
 
 <details>
-<summary><b>Generative Media, Diffusion & Video Models (影像與視訊生成前沿)</b></summary>
+<summary><b>Generative Media, Diffusion & Video Models (影像與視訊生成尖端)</b></summary>
 
 - **[MiniMax-H3-DGX-Spark](https://github.com/ivanusto/MiniMax-H3-DGX-Spark)** — Measured SM121 compatibility recipe for MiniMax H3 FL2VA on NVIDIA DGX Spark with vLLM-Omni and online FP8.<br>
   在 NVIDIA DGX Spark 上透過 vLLM-Omni 與在線 FP8 執行 MiniMax H3 FL2VA 之 SM121 相容配方。
@@ -259,7 +259,7 @@ I focus on building practical, secure, and human-centered solutions at the inter
 - **[CogVideo](https://github.com/ivanusto/CogVideo)** — Text-to-video generation architecture featuring CogVideoX and foundation video models.<br>
   清華開源 CogVideoX 文字生成影片 (Text-to-Video) 模型架構與推理實現。
 - **[ToonCrafter](https://github.com/ivanusto/ToonCrafter)** — Generative cartoon interpolation and keyframe animation synthesis framework.<br>
-  卡通插畫動畫生成與畫面補幀 (Cartoon Interpolation) 前沿研究。
+  卡通插畫動畫生成與畫面補幀 (Cartoon Interpolation) 尖端研究。
 - **[Paints-UNDO](https://github.com/ivanusto/Paints-UNDO)** — Generative framework modeling human digital painting behavior and stroke history.<br>
   模擬人類數位繪畫過程與筆觸歷程的生成式模型，再現創作步驟。
 - **[OOTDiffusion](https://github.com/ivanusto/OOTDiffusion)** — Outfitting Over Time: High-fidelity virtual try-on diffusion models.<br>
